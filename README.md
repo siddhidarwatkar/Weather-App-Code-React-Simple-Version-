@@ -44,3 +44,9 @@ Learning API integration
 Understanding backend–frontend communication
 
 Building real-time web applications
+
+📬 Contact
+
+👩‍💻 Siddhi Darwatkar
+📍 Pune, Maharashtra
+📧 darwatkarsiddhi0508@gmail.com
